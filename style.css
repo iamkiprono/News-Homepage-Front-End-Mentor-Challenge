@@ -154,6 +154,7 @@ nav {
         object-fit: cover;
       }
       .hero-top{
+        
         flex-direction: column;
       }
       .left-top{
